@@ -1,0 +1,11 @@
+html,
+body,
+div {
+  height: 100%;
+}
+.container div {
+  height: auto;
+}
+body {
+  padding: 10vh 0;
+}
